@@ -1,0 +1,6 @@
+!
+! Tracking
+!
+! This domain does not exist and is used for health checks
+||abcounter.de^
+||adc.9news.com.au^
